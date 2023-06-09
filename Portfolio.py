@@ -14,7 +14,7 @@ selected=option_menu('',['Home','Projects','Contact'],icons=['house','book','env
 if selected =='Home':
 
     st.write("<div style='text-align:left; color:grey; font-size:100px;'>MY PROFESSIONAL PORTFOLIO</div>", unsafe_allow_html=True)
-    img = cv2.imread("C://Users//Krishna//OneDrive//Desktop//Python//photo.png")
+    img = cv2.imread("photo.png")
     st.image(img,use_column_width=True)
        
     content = """Hi, I am Chirag Radhakrishna. Welcome to my portfolio!!! """
@@ -110,12 +110,12 @@ if selected =='Projects':
 
     st.title('MY PROJECTS')  
     
-    df = pd.read_csv("C://Users//Krishna//OneDrive//Desktop//Python//data.csv",sep=";")  
+    df = pd.read_csv("data.csv",sep=";")  
     
     for index, rows in df.iterrows():
             st.header(rows["title"])
             st.write(rows["description"])
-            img = cv2.imread('C://Users//Krishna//OneDrive//Desktop//Python//'+rows["image"])
+            img = cv2.imread(rows["image"])
             st.image(img, use_column_width=True)
             st.write(f"[View Project]({rows['url']})")
             
