@@ -1,0 +1,14 @@
+title;description;url;image
+Todo App;A reminder app that facilitates effective management of daily activities. The todo-list has been developed using the Streamlit framework.;https://github.com/ChiragRadhakrishna43-7/ToDo-List-with-Python;1.jpeg
+Face-Mask Detection;A Python project that detects presence of face-mask from a live video feed.;https://github.com/ChiragRadhakrishna43-7/Face-Mask-Detection;2.jfif
+Restaurant Review System;Developed using the NLP Toolkit and Random Forest classifier. The nature of the restaurant reviews are analyzed and returned.;https://github.com/ChiragRadhakrishna43-7/Restaurant-Review-System;3.png
+Virtual Drums;A website that allows you to generate sounds similar to real drums through a virtual drumset.;https://github.com/ChiragRadhakrishna43-7/Virtual-Drums;4.jpg
+Heart-Disease Prediction;Developed machine learning models for heart disease prediction. Models developed included KNN SVM KNN with PCA and SVM with PCA.;https://github.com/ChiragRadhakrishna43-7/Heart-Disease-Prediction;5.jpg
+Dice Game Challenge;A HTML website that provides an interface for a dice challenge contest.;https://github.com/ChiragRadhakrishna43-7/Dice-Game-Challenge;6.png
+Personal Website;A personal website developed using HTML CSS & JavaScript.;https://github.com/ChiragRadhakrishna43-7/Website-Development;7.png
+NBA Seat Management System;A standalone GUI application that allows the user to book tickets to the NBA All-Star games. The front-end has been developed using NetBeans IDE & Java. The back-end has been developed using MySQL.;https://github.com/ChiragRadhakrishna43-7/NBA-All-Star-Application---DBMS;8.jfif
+Multiple Disease Prediction System;A Streamlit based web-application that allows the user to enter and understand his/her symptoms. Disease prediction is done using machine learning models.;https://github.com/ChiragRadhakrishna43-7/Multiple-Disease-Prediction-System;9.png
+Web Application Penetration Testing;Utilized WPScan and Kali Linux to identify the vulnerabilities associated with a WordPress Server.;https://github.com/ChiragRadhakrishna43-7/Cyber-Security-and-Ethical-Hacking;10.jfif
+Steam Engine;Utilized OpenGL functions and methods to construct and assemble the parts of a steam engine.;https://github.com/ChiragRadhakrishna43-7/Computer-Graphics---Steam-Engine;11.jpg
+Recipe Application;Used Android Studio to develop a recipe application. The Spoonacular API was used to service recipe requests. Libraries used included Retrofit and Picasso.;https://github.com/ChiragRadhakrishna43-7/Mobile-Application-Development;12.jpg
+DBMS Mini-Project;A standalone GUI application that allows the user to book tickets for IPL games. The front-end has been developed using NetBeans IDE & Java. The back-end has been developed using MySQL.;https://github.com/ChiragRadhakrishna43-7/DBMS-Mini-Project-5th-Semester-;13.png
