@@ -13,7 +13,7 @@ selected=option_menu('',['Home','Projects','Contact'],icons=['house','book','env
 
 if selected =='Home':
 
-    st.write("<div style='text-align:left; color:grey; font-size:100px;'>MY PROFESSIONAL PORTFOLIO</div>", unsafe_allow_html=True)
+    st.write("<div style='text-align:left; color:grey; font-size:50px;'>MY PROFESSIONAL PORTFOLIO</div>", unsafe_allow_html=True)
     img = cv2.imread("photo.png")
     st.image(img,use_column_width=True)
        
