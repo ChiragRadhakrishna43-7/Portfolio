@@ -102,9 +102,9 @@ if selected =='Home':
     I was awarded the first prize in the paper presentation event for my paper titled 'Multiple Disease Prediction System' at the 18th Karnataka ISTE State 
     Level Student Convention.
     """
-    justify_t = justify_text(code1) 
+     
     st.write("\n")
-    st.warning(justify_t)
+    st.warning(code1,icon= "🔥")
     st.write("\n")
     
 if selected =='Projects':
